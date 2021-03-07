@@ -1,0 +1,66 @@
+body{
+    background-color:lightgray;
+    font-family: 'Roboto', sans-serif;
+    font-size: 130%;
+}
+
+h1{
+    font-weight: 900;
+}
+
+aside{
+    font-size: 75%;
+    font-weight: 300;
+    margin-top: 12px;
+    word-spacing: 2px;
+}
+
+h2{
+    text-align: center;
+    font-size: 90%;
+    padding: 20px;
+}
+
+ul{
+    font-weight: 900;
+    font-size: 74%;
+    line-height: 25px;
+}
+
+footer{
+    text-align: center;
+    font-weight: 900;
+    margin-top: 40px;
+}
+
+a{
+    color: #477ca7;
+    
+}
+
+.header{
+    text-align: center;
+}
+
+.img-back{
+    background-color: rgb(255, 255, 255);
+    padding: 2px 0;
+    text-align: center;
+}
+
+.year-text{
+    font-weight: 400;
+
+}
+
+.last-lines{
+    margin-left: 40px;
+}
+
+.below-h1{
+    font-weight: 400;
+    font-size: 75%;
+    margin-top: 40px;
+}
+
+
